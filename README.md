@@ -11,12 +11,3 @@ Responsive Design: Ensures optimal viewing experience across a wide range of dev
 --Usage--
 Upon accessing the website, users can perform CRUD operations on employee records.
 Follow the on-screen instructions to add, view, update, or delete employee entries as needed.
-
-
---Technologies Used--
-Java
-HTML
-CSS
-
---Contributors--
-Abdurrahman
